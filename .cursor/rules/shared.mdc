@@ -3,9 +3,9 @@ description:
 globs: 
 alwaysApply: true
 ---
-# AI Rules for {app-name}
+# AI Rules for 10x-cards
 
-{project-description}
+Cards to webowa aplikacja umożliwiająca tworzenie, generowanie przez AI oraz zarządzanie fiszkami edukacyjnymi. Produkt łączy w sobie możliwość manualnego tworzenia fiszek oraz automatycznego generowania propozycji przy użyciu sztucznej inteligencji, co przyspiesza proces przygotowywania materiałów edukacyjnych. System obejmuje również prosty system kont użytkowników, który pozwala na bezpieczne przechowywanie i zarządzanie fiszkami, a także integrację z gotowym algorytmem powtórek.
 
 ## Tech Stack
 
